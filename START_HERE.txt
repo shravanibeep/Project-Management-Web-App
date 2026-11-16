@@ -1,0 +1,9 @@
+START HERE
+1) Read README.md.
+2) Create a Google Sheet and open Extensions > Apps Script.
+3) Copy the files from src/ into Apps Script. Create each .gs file and one HTML file named Index.
+4) Run setupDatabase() and authorize.
+5) Run runIntegrityChecks() and save a screenshot of Integrity_Checks.
+6) Deploy as Web app and restrict access to the reviewer.
+7) Test every item in TEST_PLAN.md and capture real screenshots.
+Do not claim deployment or test success until you have actually run them.
